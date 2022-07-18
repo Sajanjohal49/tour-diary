@@ -24,6 +24,7 @@
 
 .header li {
   margin-left: 3rem;
+  
 }
 
 .header a {
@@ -36,4 +37,27 @@
 .header a:active,
 .header a.active {
   color: white;
+}
+@media(max-width:490px){
+  .header{
+padding:0px 3%;
+} 
+.logo {
+  font-size: 1rem;
+  color: white;
+  font-weight: bold;
+}
+.header li {
+    margin-left: 10px;
+    
+  }  
+  .header ul{
+    padding-left: 49px;
+  }
+  .header a {
+    text-decoration: none;
+    font-size: 1.0rem;
+    color: #fcb8d2;
+    padding: 0px;
+  }
 }

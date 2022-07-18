@@ -124,7 +124,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _MeetupDetail_module_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./MeetupDetail.module.css */ "./components/meetups/MeetupDetail.module.css");
 /* harmony import */ var _MeetupDetail_module_css__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_MeetupDetail_module_css__WEBPACK_IMPORTED_MODULE_2__);
 
-var _jsxFileName = "C:\\Users\\hp\\Desktop\\06-onwards-to-a-bigger-project-starting-project\\components\\meetups\\MeetupDetails.js";
+var _jsxFileName = "C:\\Users\\hp\\Desktop\\sajanDesign\\nextMeetup\\components\\meetups\\MeetupDetails.js";
 
 
 
@@ -195,7 +195,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! next/head */ "next/head");
 /* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_4__);
 
-var _jsxFileName = "C:\\Users\\hp\\Desktop\\06-onwards-to-a-bigger-project-starting-project\\pages\\[meetUpId]\\index.js";
+var _jsxFileName = "C:\\Users\\hp\\Desktop\\sajanDesign\\nextMeetup\\pages\\[meetUpId]\\index.js";
 
 
 
